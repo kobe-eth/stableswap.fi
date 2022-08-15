@@ -5,6 +5,8 @@ V.1
 - Integrate swap between Curve Main/Meta/Factory Pools.
 - Integrate multi-hop swap between Curve Pools with jSynth as intermediary.
 - Integrate mega-hop swap betweet Curve Pools and jSynth as intermediary (Example: Curve -> jSynth -> Curve -> Curve)
+- Integrate Fixed Rate Token
+- Wrapper EURe -> jEUR, EUROC -> jEUR
 
 Requirements:
 
